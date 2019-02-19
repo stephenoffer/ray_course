@@ -16,7 +16,11 @@ This course provides you with practical knowledge of the following skills:
 
 The course is structured around eight weeks of lectures and exercises. Each week requires approximately two hours to complete.
 
-Ray official [repository](https://github.com/ray-project/ray)
+### Acknowledgements
+
+Ray official [repository](https://github.com/ray-project/ray).
+
+Course material compiled from Ray tutorial (repo)[https://github.com/ray-project/tutorial].
 
 ## [Week 1](week_1)
 
