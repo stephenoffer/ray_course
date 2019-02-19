@@ -18,9 +18,9 @@ The course is structured around eight weeks of lectures and exercises. Each week
 
 ### Acknowledgements
 
-Ray official [repository](https://github.com/ray-project/ray).
+Ray framework official [repository](https://github.com/ray-project/ray).
 
-Course material compiled from Ray tutorial [repository](https://github.com/ray-project/tutorial).
+Course material compiled from the Ray tutorial [repository](https://github.com/ray-project/tutorial).
 
 ## [Week 1](week_1)
 
